@@ -18,4 +18,4 @@ Add additional data types for the BCP process.
 Add support for ODBC Bulk Operations (Insert, Edit and Delete).  
 Insert with Bulk Operations is not a fast as BCP, but does allow the three actions. 
 
-Derived Browse Class and/or View Manager for use in typical Calrion browse screens. 
+Derived Browse Class and/or View Manager for use in typical Clarion browse screens. 
